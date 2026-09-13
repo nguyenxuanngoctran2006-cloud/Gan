@@ -1,0 +1,7 @@
+{
+  "name": "GAN Detective: Thật Hay Giả?",
+  "description": "Trò chơi thử thách thị giác: Phân biệt ảnh thật và ảnh do trí tuệ nhân tạo (GAN / StyleGAN) tạo ra cùng cẩm nang soi dấu vết vi mô.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
